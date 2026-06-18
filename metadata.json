@@ -1,0 +1,6 @@
+{
+  "name": "Sound Frequency Generator",
+  "description": "一个功能强大的电子声音频率与波形生成器，支持正弦波、方波、三角波、锯齿波、双耳节拍、扫频测试、钢琴音符及实时波形示波器与频谱可视化。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
